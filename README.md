@@ -29,3 +29,4 @@ Natural language processing (NLP) is a subfield of artificial intelligence and c
 Support vector machines (SVM) is a statistical learning / machine learning technique with the primary goal of prediction. And it can be applied to binary, continuous, and categorical outcomes analogous to Gaussian, logistic and multinomial regression.
 
 * Guenther, Nick, and Matthias Schonlau. "Support vector machines." Stata Journal 16.4 (2016): 917-937. <a href="http://www.schonlau.net/publication/16svm_stata.pdf">PDF</a>
+
