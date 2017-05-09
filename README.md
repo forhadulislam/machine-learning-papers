@@ -8,3 +8,18 @@ Currently, there are a large number of topics available Machine learning researc
 * Support Vector Machines
 
 these are some of the buzz words in the market now.
+
+
+### Deep learning
+	Deep learning is the most efficient in Machine learning.
+	* Wei, Jian, et al. "Collaborative filtering and deep learning based recommendation system for cold start items." Expert Systems with Applications 69 (2017): 29-39. <a href="https://research.aston.ac.uk/portal/files/21468560/Recommendation_system_for_cold_start_items.pdf" target="_blank">PDF</a>.
+
+
+
+### Bayesian statistics
+
+
+### Natural Language processing
+
+
+### Support Vector Machines
