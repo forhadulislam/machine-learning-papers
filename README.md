@@ -11,7 +11,7 @@ these are some of the buzz words in the market now.
 
 
 ### Deep learning
-	Deep learning is the most efficient in Machine learning.
+	Deep Learning is a new area of Machine Learning research. Deep learning algorithms transform their respective inputs through more layers than other learning algorithms.
 	* Wei, Jian, et al. "Collaborative filtering and deep learning based recommendation system for cold start items." Expert Systems with Applications 69 (2017): 29-39. <a href="https://research.aston.ac.uk/portal/files/21468560/Recommendation_system_for_cold_start_items.pdf" target="_blank">PDF</a>.
 
 
