@@ -22,6 +22,8 @@ Bayesian means probabilistic.
 
 * A simple two-sample Bayesian t-test for hypothesis testing. <a href="https://arxiv.org/pdf/1509.02568.pdf" target="_blank">PDF</a>.
 
+* Real-time financial surveillance via quickest change-point detection methods. <a href="https://arxiv.org/pdf/1509.01570.pdf">PDF</a>.
+
 ### Natural Language processing
 Natural language processing (NLP) is a subfield of artificial intelligence and computational linguistics. concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language corpora.
 
