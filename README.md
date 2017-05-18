@@ -16,6 +16,13 @@ Deep Learning is a new area of Machine Learning research. Deep learning algorith
 
 * Wei, Jian, et al. "Collaborative filtering and deep learning based recommendation system for cold start items." Expert Systems with Applications 69 (2017): 29-39. <a href="https://research.aston.ac.uk/portal/files/21468560/Recommendation_system_for_cold_start_items.pdf" target="_blank">PDF</a>.
 
+* Fast Algorithms for Convolutional Neural Networks. <a href="https://arxiv.org/pdf/1509.09308">PDF</a>
+
+* Conditional Deep Learning for Energy-Efficient and Enhanced Pattern Recognition. <a href="https://arxiv.org/pdf/1509.08971">PDF</a>
+
+* Compression of Deep Neural Networks on the Fly. <a href="https://arxiv.org/pdf/1509.08745">PDF</a>
+
+
 
 ### Bayesian statistics
 Bayesian means probabilistic.
@@ -28,6 +35,8 @@ Bayesian means probabilistic.
 Natural language processing (NLP) is a subfield of artificial intelligence and computational linguistics. concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language corpora.
 
 * Jiang, Ridong, Rafael E. Banchs, and Haizhou Li. "Evaluating and Combining Named Entity Recognition Systems." ACL 2016 (2016): 21. <a href="http://www.aclweb.org/anthology/W/W16/W16-27.pdf#page=31">PDF</a>
+
+* Learning Topic-Sensitive Word Representations. <a href="https://arxiv.org/pdf/1705.00441">PDF</a>
 
 ### Support Vector Machines
 Support vector machines (SVM) is a statistical learning / machine learning technique with the primary goal of prediction. And it can be applied to binary, continuous, and categorical outcomes analogous to Gaussian, logistic and multinomial regression.
